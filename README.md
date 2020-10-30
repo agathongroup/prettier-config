@@ -56,7 +56,10 @@ Check out all of Prettier's [configuration options](https://prettier.io/docs/en/
 - **JSX Brackets** - Put the closing `>` of a multi-line JSX element at the end of the last line instead of being alone on the next line (does not apply to self closing elements). Example:
 
   ```jsx
-  <button className="prettier-class" id="prettier-id" onClick={this.handleClick}>
+  <button
+  className="prettier-class"
+  id="prettier-id"
+  onClick={this.handleClick}>
     Click Here
   </button>
   ```
