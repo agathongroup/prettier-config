@@ -16,5 +16,9 @@
   "dependencies": {
     "prettier": "^1.x.x"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agathongroup/prettier-config.git"
+  }
 }
