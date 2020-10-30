@@ -2,8 +2,6 @@
 
 ## Installation
 
-This package has several [peer dependencies](https://docs.npmjs.com/files/package.json#peerdependencies).
-
 **1. Install dependencies:**
 
 ```sh
