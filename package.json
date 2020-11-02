@@ -1,6 +1,6 @@
 {
   "name": "@agathongroup/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Agathon's Prettier Config",
   "main": "index.js",
   "scripts": {
