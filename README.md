@@ -62,8 +62,8 @@ Check out all of Prettier's [configuration options](https://prettier.io/docs/en/
   </button>
   ```
 
-- **Arrow Function Parentheses** - Always include parentheses around a sole arrow function parameter. Example:
+- **Arrow Function Parentheses** - No parentheses around a sole arrow function parameter. Example:
 
   ```js
-  (x) => x;
+  x => x;
   ```
